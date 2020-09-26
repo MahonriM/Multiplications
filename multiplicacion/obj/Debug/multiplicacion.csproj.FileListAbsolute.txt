@@ -1,0 +1,10 @@
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\bin\Debug\multiplicacion.exe.config
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\bin\Debug\multiplicacion.exe
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\bin\Debug\multiplicacion.pdb
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\obj\Debug\multiplicacion.csprojAssemblyReference.cache
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\obj\Debug\multiplicacion.Form1.resources
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\obj\Debug\multiplicacion.Properties.Resources.resources
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\obj\Debug\multiplicacion.csproj.GenerateResource.cache
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\obj\Debug\multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\obj\Debug\multiplicacion.exe
+C:\Users\chumo\source\repos\multiplicacion\multiplicacion\obj\Debug\multiplicacion.pdb
